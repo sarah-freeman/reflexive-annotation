@@ -108,7 +108,7 @@ The utility of “listening for” schemes is evident in annotations of audio, p
   </tr>
   <tr>
     <td>0:01:54</td>
-    <td>0:01:54</td> 
+    <td></td> 
     <td>Quiet breathy/blowing sound</td>
   </tr>
   <tr>
