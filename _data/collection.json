@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Reflexive Annotation of Oana Avasilichioaei's “Operator” Recordings" ] },
+    "summary": { "en": [ "This project consists of reflexive annotations of three recordings from Oana Avasilichioaei's performance of \"Operator\" at the 2019 SpokenWeb Symposium." ] },
+    "items": [
+    ]
+}
