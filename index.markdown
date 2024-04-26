@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<p> This project consists of an introduction and annotations of three audiotexts (entitled Mic 1, Mic 2, and Mic 3) from Oana Avasilichioaei’s performance of "Operator" at the 2019 SpokenWeb Symposium. </p>
