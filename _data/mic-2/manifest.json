@@ -40,14 +40,6 @@
               "none": ["Electronic tones and distortions"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://sarah-freeman.github.io/reflexive-annotation/annotations/mic-2-canvas-1-speaking-voices.json",
-            "label": {
-              "none": ["Speaking voices"]
-            }
-          }
         ],
         "items": [
           {
