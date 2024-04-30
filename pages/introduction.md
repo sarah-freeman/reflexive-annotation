@@ -233,8 +233,6 @@ Consequently, AVAnnotate allows users lots of latitude in determining layout, ap
 
 <p>Clement, Tanya E., and Liz Fischer. “Audiated Annotation from the Middle Ages to the Open Web.” <i>Digital Humanities Quarterly</i>, vol. 15, no. 1, 2021, http://www.digitalhumanities.org/dhq/vol/15/1/000512/000512.html.</p>
 
-<p>​​“Collections.” <i>Aviary</i>, University of Alberta, ualberta.aviaryplatform.com/collection. Accessed 15 Apr. 2024. </p>
-
 <p>Genette, Gérard. “Introduction to the Paratext.” Translated by Marie Maclean. <i>New Literary History</i>, vol. 22, no. 2, spring 1991, pp. 261–272, https://doi.org/10.2307/469037.</p>
 
 <p>Kittler, Friedrich. “Real Time Analysis, Time Axis Manipulation.” Translated by Geoffrey Winthrop-Young. <i>Cultural Politics</i>, vol. 13, no. 1, 2017, pp. 1–18, https://doi.org/10.1215/17432197-3755144.</p>
