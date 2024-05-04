@@ -51,7 +51,7 @@ permalink: introduction
   <tr>
     <td>0:03:13</td>
     <td>0:03:44</td> 
-    <td>One mid pitch voice speaking. Little intonation (i.e. most syllables are stressed), resulting in choppy-sounding words (e.g. ve-hi-cules). Short pauses between words. Call-and-response form (e.g. "...right? Yeah, that's what it looks like to me.") suggests two speakers, but there's only one voice. Terms that presumably refer to descriptive rather than spoken text (e.g. "unintelligible," "explicative") included within flow of speech, uttered by same speaker.</td>
+    <td>One mid pitch voice speaking. Little intonation (i.e. most syllables are stressed), resulting in choppy-sounding words (e.g. ve-hi-cules). Short pauses between words. Call-and-response form (e.g. "...right? Yeah, that's what it looks like to me.") suggests two speakers, but there's only one voice. Terms that presumably refer to descriptive rather than spoken text (e.g. "unintelligible," "explicative") included within the flow of speech, uttered by the same speaker.</td>
   </tr>
 </table>
 
